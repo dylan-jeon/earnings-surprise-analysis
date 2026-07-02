@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Raw data — too large for GitHub; regenerate with collect_full_sp500.py
+data/raw/
+
+# Run logs
+output/*.log
+
+# Temp directories
+tmp-claude/
