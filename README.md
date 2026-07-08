@@ -2,6 +2,8 @@
 
 An event study testing whether Post-Earnings Announcement Drift (PEAD) has weakened as algorithmic trading has grown, using 21,878 earnings events across 499 S&P 500 companies. The interaction term between earnings surprise and a post-2020 period dummy is negative and statistically significant (p = 0.039), confirming that markets have become measurably more efficient at pricing earnings information.
 
+**Repository:** https://github.com/dylan-jeon/earnings-surprise-analysis
+
 ---
 
 ## Key Findings
