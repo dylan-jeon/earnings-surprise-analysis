@@ -6,6 +6,14 @@ An event study testing whether Post-Earnings Announcement Drift (PEAD) has weake
 
 ---
 
+## Live Dashboard
+
+**[View on Tableau Public →](https://public.tableau.com/app/profile/dylan.jeon/viz/Post-EarningsAnnouncementDriftEvidenceofIncreasingMarketEfficiency/PEADEfficiencyStudySP5002015-2026?publish=yes)**
+
+Interactive visualizations covering PEAD drift compression across pre and post 2020 periods, and key metric comparisons across 21,878 S&P 500 earnings events.
+
+---
+
 ## Key Findings
 
 ### 1. PEAD has weakened post-2020, and the regression confirms it
